@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.nav-item{
+    @apply text-lg font-bold my-2 md:my-3 after:content-['']  after:block after:w-0 after:m-auto after:h-[2px] after:ease-in-out after:duration-[1s] after:bg-black hover:after:w-full hover:text-blue-400 md:p-2 duration-100
+}
+.partaner-container{
+    @apply mt-5 hover:scale-105 duration-100 shadow-lg md:w-[20%] w-full h-[130px] mx-auto bg-gradient-to-tr  p-10 border-t-4 border-t-yellow-200 border-l-4 border-l-purple-200 rounded-lg relative
+}
+.partaner-card{
+    @apply bg-slate-200 px-4 py-1 absolute left-0 top-0 rounded-r-lg text-gray-800 font-bold text-sm
+}
