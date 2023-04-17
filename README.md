@@ -27,4 +27,14 @@ code .
 > Run Live Server to see proejct 
 
 
+## 🔗 Portfolio
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://shineshinedev.github.io/me/)
+
+
+
+
+## Authors
+
+- [@ShineShineDev](https://shineshinedev.github.io/me/)
+
 
