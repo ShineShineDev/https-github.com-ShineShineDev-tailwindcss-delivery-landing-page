@@ -5,6 +5,9 @@ Delivery Landing Page With TailwindCSS
 ## See Live
 https://shineshinedev.github.io/tailwindcss-delivery-landing-page/
 
+## See in youtube
+https://youtu.be/nXGIxZMFOIY
+
 ## Clone
 ```
 git clone https://github.com/ShineShineDev/tailwindcss-delivery-landing-page.git
